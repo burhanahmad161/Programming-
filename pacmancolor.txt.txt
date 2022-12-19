@@ -1,0 +1,25 @@
+#include<iostream>
+#include<window.h>
+using namespace std;
+main()
+{
+system("color ED");
+cout<<"		.::---::..";
+cout<<endl;
+cout<<"	     .-------------.";
+cout<<endl;
+cout<<"	   .-----------------.";
+cout<<endl;
+cout<<"	   ----------------:.";
+cout<<endl;
+cout<<"	  :-----------::.";
+cout<<endl;
+cout<<"	  -----------:.";
+cout<<endl;
+cout<<"	  :-------------:..";
+cout<<endl;
+cout<<"	   :----------------:.";
+cout<<endl;
+cout<<"	    .---------------:";
+cout<<endl;
+cout<<"	      .:---------:.";
